@@ -12,9 +12,6 @@
         <a class="btn" href="#">Learn More</a>
       </div>
     </div>
-
-    <div class="nav">
-      <div class="container">
         <ul>
           <li>Register</li>
           <li>Schedule</li>
@@ -24,9 +21,6 @@
         </ul>
       </div>
     </div>
-
-    <div class="main">
-      <div class="container">
         <img src="/Users/pjmason/Library/Mobile Documents/com~apple~CloudDocs/ONE30FIVE/OFF1/Facebook Ad/Jeep.png" height="128" width="196">
         <h2>The Best Way to Get Off-road...Now!</h2>
         <p>You just bought your brand new JEEP.</p>
@@ -34,17 +28,11 @@
         <p>Where the heck can you do that?!?!</p>
       </div>
     </div>
-
-    <div class="jumbotron">
-      <div class="container">
         <h2>Stay Connected</h2>
         <p>Receive weekly insights from industry insiders.</p>
         <a class="btn" href="#">Join</a>
       </div>
     </div>
-
-    <div class="footer">
-      <div class="container">
         <p>&copy; ONE30FIVE Ventures LLC</p>
       </div>
     </div>
