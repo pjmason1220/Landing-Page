@@ -21,16 +21,19 @@
         </ul>
       </div>
     </div>
-        <img src="/Users/pjmason/Library/Mobile Documents/com~apple~CloudDocs/ONE30FIVE/OFF1/Facebook Ad/Jeep.png" height="128" width="196">
+        <img src="../Jeep.png" height="128" width="196">
         <h2>The Best Way to Get Off-road...Now!</h2>
+        <p>HOT-TRAIL HEATMAPS</p>
+        <p>GEO-LOCATED GUIDANCE</p>
+        <p>SOCIAL POWERED PLATFORM</p>
         <p>You just bought your brand new JEEP.</p>
         <p>You want to take it off-road.</p>
         <p>Where the heck can you do that?!?!</p>
       </div>
     </div>
-        <h2>Stay Connected</h2>
-        <p>Receive weekly insights from industry insiders.</p>
-        <a class="btn" href="#">Join</a>
+        <h2>Want to know more?</h2>
+        <p>Can't wait until this app is ready?</p>
+        <a class="btn" href="#">Sign me up!</a>
       </div>
     </div>
         <p>&copy; ONE30FIVE Ventures LLC</p>
